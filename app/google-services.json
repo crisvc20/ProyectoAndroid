@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "83541825911",
+    "project_id": "proyectodb-1d243",
+    "storage_bucket": "proyectodb-1d243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83541825911:android:d140f1aff51f75a8ffa972",
+        "android_client_info": {
+          "package_name": "com.cris.proyfirestorek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySOiIDaNIIId8Ivt_sbGAXMvMIk09GGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- AGREGAR COLORES -->
+
+    <color name="grey">#D2DBE0</color>
+    <color name="primary">#1D3557</color>
+    <color name="primaryDark">#1D3557</color> <!-- cambiar color barra -->
+    <color name="primarylight">#457B9D</color>
+    <color name="secondary">#E63946</color>
+    <color name="accent">#FF7071</color>
+
+</resources>
